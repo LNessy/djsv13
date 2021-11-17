@@ -1,1 +1,1 @@
-run = "node space.js"
+run = "node index.js"
